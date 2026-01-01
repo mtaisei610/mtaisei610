@@ -38,7 +38,7 @@ I'm a 4th-year student majoring in Computer Science at **Ibaraki Kosen** and mai
 
 - **OS** - Fedora Linux (sway WM)
 - **Terminal** - zsh + tmux + foot emulator
-- **Editor** - Neovim (LazyVim)
+- **Editor** - Neovim (LazyVim)、 Lem
 
 <br>
 
