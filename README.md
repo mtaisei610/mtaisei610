@@ -57,6 +57,7 @@ I'm a 4th-year student majoring in Computer Science at **Ibaraki Kosen** and mai
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taisei-muto/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:st22182ti@gm.ibaraki-ct.ac.jp)
 
+- **Homepage** - [https://www.mtaisei.com/](https://www.mtaisei.com/)
 - **GitHub** - [https://github.com/mtaisei610](https://github.com/mtaisei610)
 - **Zenn** - [https://zenn.dev/taisei1](https://zenn.dev/taisei1)
 - **LinkedIn** - [https://www.linkedin.com/in/taisei-muto/](https://www.linkedin.com/in/taisei-muto/)
