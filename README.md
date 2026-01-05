@@ -68,6 +68,6 @@ I'm a 4th-year student majoring in Computer Science at **Ibaraki Kosen** and mai
 
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mtaisei610&theme=dracula&exclude=shell) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mtaisei610&theme=dracula&exclude=shell) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mtaisei610&theme=dracula&exclude=shell,html,css) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mtaisei610&theme=dracula&exclude=shell,html,css) 
 
