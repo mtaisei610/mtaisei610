@@ -1,74 +1,52 @@
-# Hi there 👋 I'm Taisei Muto
+## ⬛ Skills
 
-I'm a 5th-year student majoring in Computer Science at **Ibaraki Kosen** and mainly study fundamental computer science.
-
-<br>
-
-## 🎓 About Me
-
-- Computer Science student at KOSEN
-- Interested in Deep Learning
+* C (data structure & algorithms)
+* Python (FastAPI, ...)
+* Linux commands
 
 <br>
 
-## 💻 Programming Languages
+## ⬛ Education
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![CommonLisp](https://img.shields.io/badge/-COMMON_LISP-green.svg?style=for-the-badge&logo=commonlisp)
-
-- **C** - data structures, algorithms
-- **Python** - scripting, small applications
-- **Common Lisp** - currently learning
-- **HTML / CSS / JavaScript** - basic (not modern frameworks)
+* Apr. 2022 ~ Mar. 2027： Ibaraki Kosen (茨城高専 情報系)
+* Apr. 2027 ~ Mar. 2029： Tokyo University of Agriculture and Technology (東京農工大学 知能情報システム工学科)
 
 <br>
 
-## 🛠️ Tools & Environment
+## ⬛ Certificates
 
-![ArchLinux](https://img.shields.io/badge/Arch-294172?style=for-the-badge&logo=archlinux&logoColor=#1793D1)
-![CommonLisp](https://img.shields.io/badge/-SWAY-68751C.svg?style=for-the-badge&logo=sway)
-![fish](https://img.shields.io/badge/-fish-414141.svg?style=for-the-badge&logo=fishshell)
-![tmux](https://img.shields.io/badge/tmux-%23000000?style=for-the-badge&logo=tmux&logoColor=%231BB91F)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![zsh](https://img.shields.io/badge/-LAZYVIM-414141.svg?style=for-the-badge&logo=lazyvim)
+* TOEIC L&R 870 (Jan. 2026)
+* Amateur Third-Class Radio Operator (Sep. 2020)
 
-- **OS** - Arch Linux (sway WM)
-- **Terminal** - fish + tmux + Alacritty
-- **Editor** - Neovim (LazyVim)
+<br>
+<br>
+<br>
+
+
+## ⬛ Currently Learning
+
+* C++
+* OS Development
 
 <br>
 
-## 📚 Currently Learning
+## ⬛ Preferences
 
-- Computer science fundamentals
-- Common Lisp
-- Machine learning (beginner level)
-
-<br>
-
-## 📫 Contact & SNS
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mtaisei610)
-[![Zenn](https://img.shields.io/badge/-ZENN-414141.svg?style=for-the-badge&logo=zenn)](https://zenn.dev/taisei1)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taisei-muto/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:st22182ti@gm.ibaraki-ct.ac.jp)
-
-- **Homepage** - [https://www.mtaisei.com/](https://www.mtaisei.com/)
-- **GitHub** - [https://github.com/mtaisei610](https://github.com/mtaisei610)
-- **Zenn** - [https://zenn.dev/taisei1](https://zenn.dev/taisei1)
-- **LinkedIn** - [https://www.linkedin.com/in/taisei-muto/](https://www.linkedin.com/in/taisei-muto/)
-- **E-mail** - [st22182ti@gm.ibaraki-ct.ac.jp](mailto:st22182ti@gm.ibaraki-ct.ac.jp)
+| target | tool |
+| --- | --- |
+| OS | Arch Linux |
+| WM | Sway |
+| Editor | Neovim, Emacs with Evil |
 
 <br>
 
----
+
+## 🔴 2026の目標
+
+- [ ] ゼロからのOS自作入門
+- [ ] 開発系インターンシップ参加
+- [ ] OSSにPull Requestを送る
+- [ ] TOEIC L&R 900点以上取得
 
 <br>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mtaisei610&theme=dracula&exclude=shell,html,css) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mtaisei610&theme=dracula&exclude=shell,html,css) 
-
+เุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุ
