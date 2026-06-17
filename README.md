@@ -32,7 +32,7 @@
 
 ## ⬛ Preferences
 
-| target | tool |
+| Category | Software |
 | --- | --- |
 | OS | Arch Linux |
 | WM | Sway |
