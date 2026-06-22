@@ -2,6 +2,7 @@
 
 * C (data structure & algorithms)
 * Python (FastAPI, ...)
+* HTML/CSS/JavaScript
 * Linux command line
 
 <br>
@@ -23,10 +24,11 @@
 <br>
 
 
-## ⬛ Currently Learning
+## ⬛ Currently Learning & Interests
 
 * C++
 * OS Development
+* Lisp
 
 <br>
 
@@ -36,7 +38,7 @@
 | --- | --- |
 | OS | Arch Linux |
 | WM | Sway |
-| Editor | Neovim, Emacs with Evil |
+| Editor | Emacs with Evil |
 
 <br>
 
@@ -47,6 +49,10 @@
 - [ ] 開発系インターンシップ参加
 - [ ] OSSにPull Requestを送る
 - [ ] TOEIC L&R 900点以上取得
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtaisei610&layout=compact&hide=emacs%20lisp,shell,lua)
 
 <br>
 ฺุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุ
