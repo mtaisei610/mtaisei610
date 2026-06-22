@@ -52,7 +52,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtaisei610&layout=compact&hide=emacs%20lisp,shell,lua)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtaisei610&layout=compact&hide=emacs%20lisp,shell,lua) -->
 
 <br>
 ฺุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุุ
