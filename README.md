@@ -19,8 +19,7 @@
 * TOEIC L&R: 870 (Jan. 2026)
 * Amateur Third-Class Radio Operator License (Sep. 2020)
 
-<br>
-<br>
+
 <br>
 
 
